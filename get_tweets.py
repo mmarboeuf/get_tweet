@@ -57,7 +57,7 @@ def get_all_tweets(screen_name):
 	
 	pass
 
-	#Tweeter handler from the top 3 exec at Audiense ( @javierburon / @aartiles24 / @serrita22)
+	#Twitter handle from the top 3 exec at AudienseCo and AudienseCo account ( @javierburon / @aartiles24 / @serrita22)
 if __name__ == '__main__':
 	#pass in the username of the account you want to download
 	get_all_tweets("twitter_handle")
